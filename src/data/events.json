@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Tech Conference 2023",
+    "date": "2023-05-10",
+    "description": "A technology conference featuring the latest innovations and trends in the industry."
+  },
+  {
+    "id": 2,
+    "title": "Art Exhibition",
+    "date": "2023-06-01",
+    "description": "An art exhibition showcasing various contemporary artists and their work."
+  },
+  {
+    "id": 3,
+    "title": "Music Festival",
+    "date": "2023-07-15",
+    "description": "A music festival featuring popular bands and artists from different genres."
+  },
+  {
+    "id": 4,
+    "title": "City Lit Fest",
+    "date": "2023-08-21",
+    "description": "A music festival featuring popular bands and artists from different genres."
+  },
+  {
+    "id": 5,
+    "title": "Tech Conference 2023 2",
+    "date": "2023-05-10",
+    "description": "A technology conference featuring the latest innovations and trends in the industry."
+  },
+  {
+    "id": 6,
+    "title": "Art Exhibition 2",
+    "date": "2023-06-01",
+    "description": "An art exhibition showcasing various contemporary artists and their work."
+  },
+  {
+    "id": 7,
+    "title": "Music Festival 2",
+    "date": "2023-07-15",
+    "description": "A music festival featuring popular bands and artists from different genres."
+  },
+  {
+    "id": 8,
+    "title": "City Lit Fest 2",
+    "date": "2023-08-21",
+    "description": "A music festival featuring popular bands and artists from different genres."
+  }
+]
